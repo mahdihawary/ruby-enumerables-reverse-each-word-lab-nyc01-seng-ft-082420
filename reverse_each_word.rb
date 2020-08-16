@@ -1,4 +1,4 @@
 reverse_each_word(string)
-string.split(" ")
+string_array = string.split(" ")
 
 end
